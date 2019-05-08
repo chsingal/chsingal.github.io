@@ -1,0 +1,9 @@
+.container {
+	font-family: Nunito;
+}
+.navbar {
+	text-decoration: none;	
+	color: #f2f2f2;
+	padding: 16px;
+	text-align: center;
+}

@@ -6,7 +6,7 @@
   overflow: hidden;
   background-color: #333;
   width: 100%;
-  //padding: 5em;
+  /*padding: 5em;*/
 }
 
 #navbar a {
@@ -37,13 +37,14 @@
     background-color: #f2f2f2;
     width: 100%;
     height: 100%;
-    padding: 50px 0px 50px 0px;
+    /*padding: 50px 0px 50px 0px;*/
+    
 }
 .home-text {
     text-align: center;
     margin-left: 50px;
     margin-right: 50px;
-    //margin-top: 25px;
+    /*margin-top: 25px;*/
     font-family: Nunito;
 
 }

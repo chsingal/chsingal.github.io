@@ -58,10 +58,12 @@
 
 .projects{
 	display: flex;
+	background-color: white;
 }
 .rectangle {
 	width: 150px;
 	height: 150px;
 	background-color: #f2f2f2;
-	margin-bottom: 50px;
+	/*margin-bottom: 50px;*/
+	margin: auto;
 }

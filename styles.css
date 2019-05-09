@@ -50,8 +50,9 @@
 	font-weight: bold;
 	font-size: 2.0em;
 }
-.about {
-    background-color: blue;
+
+#about {
+    background-color: #f2f2f2;
     width: 100%;
     height: 100%;
     font-size: 20px;
@@ -64,7 +65,7 @@
     font-family: Nunito;
 }
 
-.projects{
+#projects{
 	display: flex;
 	background-color: white;
 }

@@ -65,7 +65,7 @@
 }
 
 .projects{
-	/*display: flex;*/
+	display: flex;
 	background-color: white;
 }
 .project-text{
